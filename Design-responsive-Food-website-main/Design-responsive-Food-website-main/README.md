@@ -1,1 +1,1 @@
-Spicy corner restaurant website
+RedHut restaurant website
